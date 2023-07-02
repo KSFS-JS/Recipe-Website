@@ -1,4 +1,5 @@
 Cooking Recipe Website
+========================================================
 
 Originally created as the final project for UofT CSC309.
 
