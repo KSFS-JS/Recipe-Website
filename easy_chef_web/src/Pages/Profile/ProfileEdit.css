@@ -1,0 +1,32 @@
+.profile_edit_Form:first-child {
+    padding-top: 3%;
+}
+.profile_edit_Form:last-child {
+    padding-bottom: 1%;
+}
+.profile_edit_avatar {
+    border-radius: 50%;
+    width:30%;
+}
+.profile_edit_container {
+    background-color: rgb(243, 239, 239);
+    border-radius: 5%;
+    margin-top: 10%;
+    width: 30%;
+}
+.edit-link {
+    color: #5cb85c;
+    font-size: larger;
+    border-style: solid;
+    border-width: 0.5px;
+    background-color: transparent;
+}
+.edit-link:hover {
+    background-color: #5cb85c;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.profile_edit_error {
+    color: red;
+}

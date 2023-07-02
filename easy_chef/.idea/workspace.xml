@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb961333-f4c2-46bc-b422-3854881815a4" name="Changes" comment="This is really the end.&#10;&#10;I've finished everything I wanted.&#10;&#10;再写我就是狗，麻了。通宵完下午睡了三个小时又继续到现在。">
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/15879-4222c1bf9def427997989c3eea2e5c22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_1_VDNytBV.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_1_Y88poxI.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_1_laPe23a.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_2_ostqzre.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_2_sroRtUw.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_2_zonicdV.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_UnRktyh.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_Vx4X7Dk.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_WsxvXKZ.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_nfhCbjl.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uploads/recipe/images/image_ouWQZEl.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/account/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../easy_chef_web/src/Common_component/Comment/CommentBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../easy_chef_web/src/Common_component/Comment/CommentBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../run.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MbVrEPJ4JVvCCevEMtK7el9KVQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/learner/Desktop/venv/bin/python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/easy_chef_app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="easy_chef" type="Python.DjangoServer" factoryName="Django server">
+      <module name="easy_chef" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb961333-f4c2-46bc-b422-3854881815a4" name="Changes" comment="" />
+      <created>1678036466535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678036466535</updated>
+      <workItem from="1678036468121" duration="497000" />
+      <workItem from="1678036979777" duration="11843000" />
+      <workItem from="1678050864823" duration="189000" />
+      <workItem from="1678051056140" duration="38000" />
+      <workItem from="1678051096117" duration="235000" />
+      <workItem from="1678123762866" duration="19018000" />
+      <workItem from="1678207715135" duration="29636000" />
+      <workItem from="1678239460076" duration="269000" />
+      <workItem from="1678239870572" duration="60000" />
+      <workItem from="1678297340245" duration="9991000" />
+      <workItem from="1678308902203" duration="1289000" />
+      <workItem from="1678310988778" duration="23000" />
+      <workItem from="1678311120702" duration="47000" />
+      <workItem from="1678313983455" duration="652000" />
+      <workItem from="1678314770185" duration="72000" />
+      <workItem from="1678381712185" duration="5908000" />
+      <workItem from="1679180689196" duration="1927000" />
+      <workItem from="1679272092322" duration="16000" />
+      <workItem from="1679349770335" duration="769000" />
+      <workItem from="1679350562510" duration="42000" />
+      <workItem from="1680192149191" duration="3430000" />
+      <workItem from="1680197832436" duration="15000" />
+      <workItem from="1680206641650" duration="1293000" />
+      <workItem from="1680289019339" duration="249000" />
+      <workItem from="1680289532534" duration="7134000" />
+      <workItem from="1680320889694" duration="3616000" />
+      <workItem from="1680368389218" duration="7090000" />
+      <workItem from="1680450812770" duration="30378000" />
+      <workItem from="1680564369062" duration="4000" />
+      <workItem from="1680564941521" duration="43000" />
+      <workItem from="1680564989984" duration="606000" />
+      <workItem from="1680579018691" duration="919000" />
+      <workItem from="1681025661708" duration="648000" />
+      <workItem from="1681027318724" duration="276000" />
+      <workItem from="1682018032353" duration="461000" />
+      <workItem from="1688326872452" duration="2070000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initialize project folder">
+      <created>1678037092096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678037092096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished Building Database Models, added them to admin panel. Update setting to specify media root">
+      <created>1678049351914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678049351914</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added UserCart that's missing from previous">
+      <created>1678049684719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678049684719</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update User Model in models.py&#10;Setup for Token Auth in settings.py">
+      <created>1678050612227</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678050612227</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added models for favorite recipe and interacted recipe in models.py">
+      <created>1678051146969</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678051146969</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update app structure, separate account and recipe for easier file management">
+      <created>1678124182424</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678124182424</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implement both Session auth and token auth. (Not difficult, just for fun)&#10;&#10;Updated Media URL to allow image fetch from client. (Prep for P3)&#10;&#10;Implement all account related endpoints. Upload default avatar to the Upload folder.&#10;&#10;Notice, most endpoints are implemented with function rather than View class due to the requirement of default template (which is not allowed).&#10;I will change those when it comes to P3, because it is very disorganized.">
+      <created>1678143710786</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678143710786</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Modify recipe models, update documentation.">
+      <created>1678208012733</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678208012733</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update model.&#10;Update Doc.&#10;Complete Recipe related, P2 coding part done.&#10;&#10;Develop Postman and document next.">
+      <created>1678238567085</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678238567085</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Recipe view format update">
+      <created>1678239724744</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678239724744</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added User_list to recipes that allows user to obtain a list of owned/favorite/interacted recipes&#10;&#10;Adding redirect to some endpoints for marking purpose.&#10;&#10;Minor Adjustment to models&#10;&#10;Coding part done">
+      <created>1678307336094</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678307336094</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added User_list to recipes that allows user to obtain a list of owned/favorite/interacted recipes&#10;&#10;Adding redirect to some endpoints for marking purpose.&#10;&#10;Minor Adjustment to models&#10;&#10;Coding part done">
+      <created>1678307343176</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678307343176</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add setup and start script.&#10;Add postman json.">
+      <created>1678308947936</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678308947936</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add setup and start script.&#10;Add postman json.">
+      <created>1678309521887</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678309521887</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add setup and start script.&#10;Add postman json.">
+      <created>1678309527732</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678309527732</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Convert documentation.txt to docs.pdf.&#10;Done">
+      <created>1678310739867</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678310739867</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Format change on docs.pdf">
+      <created>1678311004640</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678311004640</updated>
+    </task>
+    <task id="LOCAL-00018" summary="startup.sh minor modification">
+      <created>1678311138873</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678311138873</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add execution bit to both script">
+      <created>1678314798252</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678314798252</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add User cart support.&#10;Update model&#10;Remove auth from APIViews">
+      <created>1678387506959</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678387506959</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update postman and docs">
+      <created>1678387615978</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1678387615978</updated>
+    </task>
+    <task id="LOCAL-00022" summary="After due date commit. (Prep for next phase)&#10;Add sort by rating/favorite">
+      <created>1679182611203</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679182611203</updated>
+    </task>
+    <task id="LOCAL-00023" summary="After due date commit. (Prep for next phase)&#10;Add average rating and favorite count to recipe view">
+      <created>1679350589881</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679350589881</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added P2 server code">
+      <created>1680196732183</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1680196732183</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update search">
+      <created>1680197843031</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1680197843031</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Update Pagination, adding 'next_page' to the response.">
+      <created>1680207329142</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1680207329142</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Update Pagination, adding 'next_page' to the response.">
+      <created>1680324691861</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1680324691861</updated>
+    </task>
+    <task id="LOCAL-00028" summary="This is really the end.&#10;&#10;I've finished everything I wanted.&#10;&#10;再写我就是狗，麻了。通宵完下午睡了三个小时又继续到现在。">
+      <created>1680581725658</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1680581725658</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize project folder" />
+    <MESSAGE value="Finished Building Database Models, added them to admin panel. Update setting to specify media root" />
+    <MESSAGE value="Added UserCart that's missing from previous" />
+    <MESSAGE value="Update User Model in models.py&#10;Setup for Token Auth in settings.py" />
+    <MESSAGE value="Added models for favorite recipe and interacted recipe in models.py" />
+    <MESSAGE value="Update app structure, separate account and recipe for easier file management" />
+    <MESSAGE value="Implement both Session auth and token auth. (Not difficult, just for fun)&#10;&#10;Updated Media URL to allow image fetch from client. (Prep for P3)&#10;&#10;Implement all account related endpoints. Upload default avatar to the Upload folder.&#10;&#10;Notice, most endpoints are implemented with function rather than View class due to the requirement of default template (which is not allowed).&#10;I will change those when it comes to P3, because it is very disorganized." />
+    <MESSAGE value="Modify recipe models, update documentation." />
+    <MESSAGE value="Update model.&#10;Update Doc.&#10;Complete Recipe related, P2 coding part done.&#10;&#10;Develop Postman and document next." />
+    <MESSAGE value="Recipe view format update" />
+    <MESSAGE value="Added User_list to recipes that allows user to obtain a list of owned/favorite/interacted recipes&#10;&#10;Adding redirect to some endpoints for marking purpose.&#10;&#10;Minor Adjustment to models&#10;&#10;Coding part done" />
+    <MESSAGE value="Add setup and start script.&#10;Add postman json." />
+    <MESSAGE value="Convert documentation.txt to docs.pdf.&#10;Done" />
+    <MESSAGE value="Format change on docs.pdf" />
+    <MESSAGE value="startup.sh minor modification" />
+    <MESSAGE value="Add execution bit to both script" />
+    <MESSAGE value="Add User cart support.&#10;Update model&#10;Remove auth from APIViews" />
+    <MESSAGE value="Update postman and docs" />
+    <MESSAGE value="After due date commit. (Prep for next phase)&#10;Add sort by rating/favorite" />
+    <MESSAGE value="After due date commit. (Prep for next phase)&#10;Add average rating and favorite count to recipe view" />
+    <MESSAGE value="Added P2 server code" />
+    <MESSAGE value="Update search" />
+    <MESSAGE value="Update Pagination, adding 'next_page' to the response." />
+    <MESSAGE value="This is really the end.&#10;&#10;I've finished everything I wanted.&#10;&#10;再写我就是狗，麻了。通宵完下午睡了三个小时又继续到现在。" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is really the end.&#10;&#10;I've finished everything I wanted.&#10;&#10;再写我就是狗，麻了。通宵完下午睡了三个小时又继续到现在。" />
+  </component>
+</project>

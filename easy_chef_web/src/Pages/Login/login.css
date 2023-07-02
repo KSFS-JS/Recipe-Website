@@ -1,0 +1,12 @@
+.loginForm:first-child {
+    padding-top: 3%;
+}
+.loginForm:last-child {
+    padding-bottom: 1%;
+}
+.logincontainer {
+    background-color: rgb(243, 239, 239);
+    border-radius: 5%;
+    margin-top: 10%;
+    width: 30%;
+}

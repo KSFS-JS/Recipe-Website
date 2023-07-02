@@ -1,0 +1,12 @@
+.recipe_create_form:first-child {
+    padding-top: 3%;
+}
+.recipe_create_form:last-child {
+    padding-bottom: 1%;
+}
+.recipe_create_form_container {
+    background-color: rgb(243, 239, 239);
+    margin-top: 10%;
+    width: 50%;
+    margin-bottom: 10%;
+}
